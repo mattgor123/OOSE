@@ -1,0 +1,22 @@
+{
+  "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\Brickus\\src": {
+    "location": "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\Brickus\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\Brickus\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\BrickusInterface.jar": {
+    "location": "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\BrickusInterface.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\BrickusInterface.jar\u0027. Neither fingerprint \u0027f52082705eb3cd1a36eed60eec549d161886eea8\u0027 nor symbolic name \u0027BrickusInterface\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\MyBrickusUI\\src": {
+    "location": "C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\MyBrickusUI\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Matt\\Desktop\\Classes\\Junior\\OOSE\\Assignment 1\\Brickus\\MyBrickusUI\\src\u0027. Skipped."
+  }
+}
